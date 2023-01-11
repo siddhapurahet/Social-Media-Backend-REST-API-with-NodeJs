@@ -1,1 +1,1 @@
-# Social-Media-Backend-REST-API-with-NodeJs
+# Social-Media-Blog-Backend-REST-API-with-NodeJs
